@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/just-clock-it/static/css/main.d8f80f22.chunk.css",
+    "main.js": "/just-clock-it/static/js/main.e5474be8.chunk.js",
+    "main.js.map": "/just-clock-it/static/js/main.e5474be8.chunk.js.map",
+    "runtime-main.js": "/just-clock-it/static/js/runtime-main.10cf9ada.js",
+    "runtime-main.js.map": "/just-clock-it/static/js/runtime-main.10cf9ada.js.map",
+    "static/js/2.31d7c685.chunk.js": "/just-clock-it/static/js/2.31d7c685.chunk.js",
+    "static/js/2.31d7c685.chunk.js.map": "/just-clock-it/static/js/2.31d7c685.chunk.js.map",
+    "index.html": "/just-clock-it/index.html",
+    "precache-manifest.cf3cc7cf06b2bd07d001e2eea04fe0b0.js": "/just-clock-it/precache-manifest.cf3cc7cf06b2bd07d001e2eea04fe0b0.js",
+    "service-worker.js": "/just-clock-it/service-worker.js",
+    "static/css/main.d8f80f22.chunk.css.map": "/just-clock-it/static/css/main.d8f80f22.chunk.css.map",
+    "static/js/2.31d7c685.chunk.js.LICENSE.txt": "/just-clock-it/static/js/2.31d7c685.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10cf9ada.js",
+    "static/js/2.31d7c685.chunk.js",
+    "static/css/main.d8f80f22.chunk.css",
+    "static/js/main.e5474be8.chunk.js"
+  ]
+}
